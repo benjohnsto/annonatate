@@ -1,4 +1,10 @@
 images:
+- added: '2024-02-29 18:04:48.743847'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://data.artmuseum.princeton.edu/iiif/objects/32872
+  user: benjohnsto
 - iiif: true
   thumbnail: https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/full/120,/0/default.jpg
   title: ''
