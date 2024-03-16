@@ -1,0 +1,34 @@
+---
+canvas: "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Is this guy really there?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "benjohnsto",
+                "name": "benjohnsto"
+            },
+            "created": "2024-03-16T15:40:40.883Z",
+            "modified": "2024-03-16T15:40:44.714Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=11515.11328125,9909.498046875,5913.07421875,3119.65625"
+        }
+    },
+    "id": "509ccd63-599e-42b3-ad37-94c1069227c9.json",
+    "motivation": "commenting"
+}
