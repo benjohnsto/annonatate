@@ -4,21 +4,38 @@ order: 1
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
+            "created": "2024-02-29T18:05:54.206Z",
+            "creator": {
+                "id": "benjohnsto",
+                "name": "benjohnsto"
+            },
+            "modified": "2024-02-29T18:05:58.078Z",
+            "purpose": "commenting",
             "type": "TextualBody",
-            "value": "This is an annotation",
+            "value": "This is an annotation"
+        },
+        {
+            "type": "TextualBody",
+            "value": "This is a close up of the statue's hands",
             "purpose": "commenting",
             "creator": {
                 "id": "benjohnsto",
                 "name": "benjohnsto"
             },
-            "created": "2024-02-29T18:05:54.206Z",
-            "modified": "2024-02-29T18:05:58.078Z"
+            "created": "2024-03-16T15:44:02.617Z",
+            "modified": "2024-03-16T15:44:13.184Z"
         }
     ],
+    "id": "06b31501-fd09-410c-931e-ff1558beb80a.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=586.649169921875,606.3055419921875,244.1390380859375,352.46563720703125"
+        },
         "source": {
             "partOf": {
                 "id": "https://data.artmuseum.princeton.edu/iiif/objects/32872",
@@ -26,13 +43,7 @@ order: 1
             },
             "id": "https://data.artmuseum.princeton.edu/iiif/objects/32872/canvas/32872-canvas-14323",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=586.649169921875,606.3055419921875,244.1390380859375,352.46563720703125"
         }
     },
-    "id": "06b31501-fd09-410c-931e-ff1558beb80a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
