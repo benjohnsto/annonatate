@@ -21,6 +21,12 @@
             "title": "Three",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://benjohnsto.github.io/annonatate/annotations/2-ef96e79b-f481-8114-0804-4bd39c101983-list.json'></iiif-annotation>",
+            "title": "Four",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
