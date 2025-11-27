@@ -1,0 +1,38 @@
+---
+canvas: "https://www.artic.edu/iiif/2/ef96e79b-f481-8114-0804-4bd39c101983"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Pine trees are typical of this area",
+            "purpose": "commenting",
+            "creator": {
+                "id": "benjohnsto",
+                "name": "benjohnsto"
+            },
+            "created": "2025-11-27T11:41:00.890Z",
+            "modified": "2025-11-27T11:41:06.901Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://api.artic.edu/api/v1/artworks/64729/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://www.artic.edu/iiif/2/ef96e79b-f481-8114-0804-4bd39c101983",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=447.2100830078125,604.1800537109375,1859.2086181640625,1618.3394775390625"
+        }
+    },
+    "id": "9be6c66d-6d42-4550-a992-5c05c1686ef8.json",
+    "motivation": "commenting"
+}
