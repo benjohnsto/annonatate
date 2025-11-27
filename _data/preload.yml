@@ -1,4 +1,11 @@
 images:
+- added: '2025-11-27 11:48:23.558421'
+  iiif: true
+  thumbnail: https://iiif-cloud.princeton.edu/iiif/2/8f%2F69%2Fbd%2F8f69bd808e2d4b519e3065b025e17395%2Fintermediate_file/full/!200,150/0/default.jpg
+  title: "Princeton Ethiopic Manuscript No. 43: Miracles of Mary (T\xE4'amm\u0259\
+    r\xE4 Maryam) and Miracles of Saint George (T\xE4'am\u0259r\xE4 Giyorgis)"
+  url: https://figgy.princeton.edu/concern/scanned_resources/74a63b35-2a32-4a56-a173-e8a445bb13e0/manifest
+  user: benjohnsto
 - added: '2025-11-27 11:36:58.151291'
   iiif: true
   thumbnail: ''
