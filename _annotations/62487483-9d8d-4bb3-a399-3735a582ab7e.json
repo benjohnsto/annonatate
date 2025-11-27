@@ -1,0 +1,38 @@
+---
+canvas: "https://figgy.princeton.edu/concern/scanned_resources/0e05d0d5-6864-47fa-ac3b-00065506191f/manifest/canvas/069c43b1-c9e6-41de-8480-8600f0b3b71b"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This is very interesting",
+            "purpose": "commenting",
+            "creator": {
+                "id": "benjohnsto",
+                "name": "benjohnsto"
+            },
+            "created": "2025-11-27T11:58:26.307Z",
+            "modified": "2025-11-27T11:58:30.402Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://figgy.princeton.edu/concern/scanned_resources/0e05d0d5-6864-47fa-ac3b-00065506191f/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://figgy.princeton.edu/concern/scanned_resources/0e05d0d5-6864-47fa-ac3b-00065506191f/manifest/canvas/069c43b1-c9e6-41de-8480-8600f0b3b71b",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1077.5,1653.3333740234375,2951.111328125,2293.3333740234375"
+        }
+    },
+    "id": "62487483-9d8d-4bb3-a399-3735a582ab7e.json",
+    "motivation": "commenting"
+}
