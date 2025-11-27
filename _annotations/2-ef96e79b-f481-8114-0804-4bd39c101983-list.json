@@ -1,0 +1,9 @@
+---
+canvas_id: "https://www.artic.edu/iiif/2/ef96e79b-f481-8114-0804-4bd39c101983"
+---
+{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+"type": "AnnotationPage",
+"items": [{{ annotations | join: ","}}] }
