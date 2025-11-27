@@ -1,4 +1,15 @@
 images:
+- added: '2025-11-27 11:52:45.962805'
+  iiif: true
+  thumbnail: https://iiif-cloud.princeton.edu/iiif/2/ed%2F4f%2F83%2Fed4f83e4872f4c0a9f644096c1e430af%2Fintermediate_file/full/!200,150/0/default.jpg
+  title: "\u0633\u0631\u0648\u0631 \u0627\u0644\u0645\u062D\u0632\u0648\u0646 / \u0627\
+    \u0632 \u062A\u0635\u0627\u0646\u0649\u0641 \u0642\u062F\u0631\u0629 \u0627\u0644\
+    \u0627\u062E\u0649\u0627\u0631 \u0632\u0628\u062F\u0629 \u0627\u0644\u0627\u0628\
+    \u0631\u0627\u0631 \u062D\u0636\u0631\u062A \u0634\u0627\u0647 \u0648\u0644\u0649\
+    \ \u0627\u0644\u0644\u0647 \u0645\u062D\u062F\u062B \u062F\u0647\u0644\u0648\u0649\
+    ."
+  url: https://figgy.princeton.edu/concern/scanned_resources/0e05d0d5-6864-47fa-ac3b-00065506191f/manifest
+  user: benjohnsto
 - added: '2025-11-27 11:36:58.151291'
   iiif: true
   thumbnail: ''
