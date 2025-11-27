@@ -9,6 +9,12 @@
             "title": "One",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-annotation annotationurl='https://benjohnsto.github.io/annonatate/annotations/0e05d0d5-6864-47fa-ac3b-00065506191f-43363766-f181-4125-9f68-ae6ef4c23fbd-list.json'></iiif-annotation>",
+            "title": "Two",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
