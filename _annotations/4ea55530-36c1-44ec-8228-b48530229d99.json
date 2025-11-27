@@ -1,0 +1,38 @@
+---
+canvas: "https://www.artic.edu/iiif/2/ef96e79b-f481-8114-0804-4bd39c101983"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "There seems to be a person in this picture",
+            "purpose": "commenting",
+            "creator": {
+                "id": "benjohnsto",
+                "name": "benjohnsto"
+            },
+            "created": "2025-11-27T11:37:18.933Z",
+            "modified": "2025-11-27T11:37:25.869Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://api.artic.edu/api/v1/artworks/64729/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://www.artic.edu/iiif/2/ef96e79b-f481-8114-0804-4bd39c101983",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2703.47607421875,3454.966552734375,521.255859375,700.025634765625"
+        }
+    },
+    "id": "4ea55530-36c1-44ec-8228-b48530229d99.json",
+    "motivation": "commenting"
+}
