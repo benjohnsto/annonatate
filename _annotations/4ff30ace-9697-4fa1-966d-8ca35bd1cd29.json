@@ -1,0 +1,38 @@
+---
+canvas: "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Tieing up the boats",
+            "purpose": "commenting",
+            "creator": {
+                "id": "benjohnsto",
+                "name": "benjohnsto"
+            },
+            "created": "2026-05-09T15:04:24.429Z",
+            "modified": "2026-05-09T15:05:00.259Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/fullBayeux/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=56359.62890625,300.9943542480469,366.0546875,310.7457580566406"
+        }
+    },
+    "id": "4ff30ace-9697-4fa1-966d-8ca35bd1cd29.json",
+    "motivation": "commenting"
+}
